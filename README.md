@@ -34,10 +34,6 @@ The dataset contains:
 4. Run the provided scripts or notebooks to preprocess the data, train models, and evaluate their performance.
 5. Customize the code as needed for your own analysis or experimentation.
 
-## Results
-
-Include a summary of the results achieved from the analysis. This may include performance metrics of the trained models, insights gained from exploratory data analysis, and any visualizations produced during the analysis.
-
 
 ## Acknowledgements
 
